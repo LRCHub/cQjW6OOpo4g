@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "F・L・Y",
+  "base_artist": "スペクトラム",
+  "createdAt": "2026-02-25T18:57:24.290927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I.F.L.Y.",
+      "artist": "Bazzi",
+      "has_synced": true,
+      "path": "select/01_I.F.L.Y._Bazzi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "F.L.Y. (Feat. Buddy Nielsen)",
+      "artist": "Ice Nine Kills feat. Buddy Nielsen",
+      "has_synced": true,
+      "path": "select/02_F.L.Y._(Feat._Buddy_Nielsen)_Ice_Nine_Kills_feat._Buddy_Nielsen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "F.L.Y.",
+      "artist": "Ice Nine Kills",
+      "has_synced": false,
+      "path": "select/03_F.L.Y._Ice_Nine_Kills.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I.f.l.y.",
+      "artist": "Bazzi",
+      "has_synced": true,
+      "path": "select/04_I.f.l.y._Bazzi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "F.L.Y.",
+      "artist": "Ice Nine Kills feat. Buddy Nielsen",
+      "has_synced": true,
+      "path": "select/05_F.L.Y._Ice_Nine_Kills_feat._Buddy_Nielsen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "F.L.Y.",
+      "artist": "Ice Nine Kills",
+      "has_synced": true,
+      "path": "select/06_F.L.Y._Ice_Nine_Kills.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "F.L.Y.",
+      "artist": "Ras Kass",
+      "has_synced": false,
+      "path": "select/07_F.L.Y._Ras_Kass.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I.F.L.Y.",
+      "artist": "Bazzi",
+      "has_synced": true,
+      "path": "select/08_I.F.L.Y._Bazzi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "F.L.Y.",
+      "artist": "Ice Nine Kills, Buddy Nielsen",
+      "has_synced": true,
+      "path": "select/09_F.L.Y._Ice_Nine_Kills,_Buddy_Nielsen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "F.L.Y. (Feat. Buddy Nielsen)",
+      "artist": "Ice Nine Kills",
+      "has_synced": true,
+      "path": "select/10_F.L.Y._(Feat._Buddy_Nielsen)_Ice_Nine_Kills.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "F.L.Y",
+      "artist": "Grace Gaustad",
+      "has_synced": true,
+      "path": "select/11_F.L.Y_Grace_Gaustad.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "F.L.Y. (feat. Buddy Nielsen)",
+      "artist": "ICE NINE KILLS",
+      "has_synced": true,
+      "path": "select/12_F.L.Y._(feat._Buddy_Nielsen)_ICE_NINE_KILLS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Splashin' Feat. F.L.Y.",
+      "artist": "future",
+      "has_synced": false,
+      "path": "select/13_Splashin'_Feat._F.L.Y._future.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bazzi - I.F.L.Y. [Official Music Video]",
+      "artist": "Bazzi",
+      "has_synced": true,
+      "path": "select/14_Bazzi_-_I.F.L.Y._[Official_Music_Video]_Bazzi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "F.L.Y",
+      "artist": "Gaustad",
+      "has_synced": true,
+      "path": "select/15_F.L.Y_Gaustad.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "F.L.Y. (feat. Fetty Wap)",
+      "artist": "De La Ghetto feat. Fetty Wap",
+      "has_synced": true,
+      "path": "select/16_F.L.Y._(feat._Fetty_Wap)_De_La_Ghetto_feat._Fetty_Wap.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "F.L.Y. (feat. Fetty Wap)",
+      "artist": "De La Ghetto",
+      "has_synced": true,
+      "path": "select/17_F.L.Y._(feat._Fetty_Wap)_De_La_Ghetto.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "F・L・Y",
+      "artist": "スペクトラム",
+      "has_synced": false,
+      "path": "select/pl_01_F・L・Y_スペクトラム.txt"
+    }
+  ]
+}
